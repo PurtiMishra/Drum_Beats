@@ -5,7 +5,7 @@ https://purtimishra.github.io/Drum_Beats/Click here to have a preview of my proj
 
 
 
-TECH STACH:
+TECH STACK:
 
 1.HTML
 2.CSS
