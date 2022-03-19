@@ -1,8 +1,6 @@
 # Drum_Beats
 
-
-https://purtimishra.github.io/Drum_Beats/Click here to have a preview of my project.
-
+ https://purtimishra.github.io/Drum_Beats/ Click here to have a preview of my project.
 
 
 TECH STACK:
