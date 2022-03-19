@@ -1,0 +1,120 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    height:95vh;
+    border:12px solid black;
+    background-image:url("https://media.istockphoto.com/photos/crowded-concert-hall-with-scene-stage-lights-rock-show-performance-picture-id1289481257?b=1&k=20&m=1289481257&s=170667a&w=0&h=E9AEvaPx9Lv4K9unJFQynwPCjKsiWbpphw4i3fWUAcs=");
+    background-size:cover;
+}
+@media screen and(max-width:80vw){
+   .keys{
+       flex-wrap:wrap;
+   }      
+}
+h1{
+    font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+  text-align: center;
+}
+h3{
+    color:white;
+    text-align:center;
+    background-color:black;
+}
+
+.keys{
+    /*width:95%;*/
+     position:relative;
+     top:32vh;
+     height:30vh;
+     display:flex;
+     /*flex-wrap:wrap;*/
+     margin:auto;
+     
+  
+     
+    /* border:3px solid red;*/
+    /* justify-content:center;*/
+}
+
+.w{
+    width: 12vw;
+    border: 3px solid black;
+    border-radius:10px;
+    background-image:url('images/tom1.png');
+    background-position:center;
+    background-size:contain;
+    background-repeat: no-repeat;
+   /* padding:10px;*/
+   /* flex-wrap:wrap;*/
+  
+}
+.a{
+    width: 12vw;
+    border: 3px solid black;
+    border-radius:10px;
+    /*border: 10px solid black;*/
+    background-image:url('images/tom2.png');
+    background-position:center;
+    background-size:contain;
+    background-repeat: no-repeat;
+    
+    /*margin-left:10px;*/
+}
+.s{
+    width: 15vw;
+    border: 3px solid black;
+    border-radius:10px;
+   /* border: 10px solid black;*/
+    background-image:url('images/tom3.png');
+    background-position:center;
+    background-size:contain;
+    background-repeat: no-repeat;
+    
+    /*border:2px solid red;*/
+}
+.d{
+    width: 15vw;
+    border: 3px solid black;
+    border-radius:10px;
+    /*border: 10px solid black;*/
+    background-image:url('images/tom4.png');
+    background-position:center;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+.j{
+    width: 15vw;
+    border: 3px solid black;
+    border-radius:10px;
+    /*border: 10px solid black;*/
+    background-image:url('images/snare.png');
+    background-position:center;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+.k{
+    width: 15vw;
+    border: 3px solid black;
+    border-radius:10px;
+    /*border: 10px solid black;*/
+    background-image:url('images/crash.png');
+    background-position:center;
+    background-size:contain;
+    background-repeat: no-repeat;
+   
+}
+.l{
+    width: 15vw;
+    border: 3px solid black;
+    border-radius:10px;
+    /*border: 10px solid black;*/
+    background-image:url('images/kick.png');
+    background-position:center;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
